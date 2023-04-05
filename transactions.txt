@@ -1,0 +1,7 @@
+
+	Amount debited: $602.0	Date: 2023:04:06 - 00:46:30
+	Amount credited: $14000.0	Date: 2023:04:06 - 00:46:30
+	Amount debited: $8502.0	Date: 2023:04:06 - 00:46:30
+	Amount debited: $102.0	Date: 2023:04:06 - 00:56:06
+	Amount debited: $802.0	Date: 2023:04:06 - 00:56:06
+	Amount credited: $825.0	Date: 2023:04:06 - 00:56:06
