@@ -18,6 +18,7 @@ public class Main {
 
         ATM atm = new ATM();
 
+        // zeigt den Inhalt der transactions.txt
         pinNum = scanner.nextInt();
 
         if(account1.validatePin(pinNum)){
